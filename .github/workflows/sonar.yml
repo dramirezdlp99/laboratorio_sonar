@@ -19,4 +19,4 @@ jobs:
         with:
           args: >
             -Dsonar.organization=dramirezdlp99
-            -Dsonar.projectKey=dramirezdlp99
+            -Dsonar.projectKey=dramirezdlp99_laboratorio_sonar
